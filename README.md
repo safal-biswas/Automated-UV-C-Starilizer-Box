@@ -33,13 +33,3 @@ An intelligent, contactless sterilization system designed to disinfect frequentl
 4. UV-C lights turn on and run for a preset 5 minutes.
 5. A buzzer or LED notifies the user when disinfection is complete.
 
----
-
-## 🖼️ Project Photos / Diagrams
-
-> *(Add your images here — circuit diagrams, final prototype, etc.)*
-
----
-
-## 📂 Folder Structure (if applicable)
-
